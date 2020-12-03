@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/praveenkumar366/pokedex/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/praveenkumar366/pokedex/static/js/main.f60f5e03.chunk.js",
+    "main.js.map": "/praveenkumar366/pokedex/static/js/main.f60f5e03.chunk.js.map",
+    "runtime-main.js": "/praveenkumar366/pokedex/static/js/runtime-main.1085e9df.js",
+    "runtime-main.js.map": "/praveenkumar366/pokedex/static/js/runtime-main.1085e9df.js.map",
+    "static/js/2.1cae411b.chunk.js": "/praveenkumar366/pokedex/static/js/2.1cae411b.chunk.js",
+    "static/js/2.1cae411b.chunk.js.map": "/praveenkumar366/pokedex/static/js/2.1cae411b.chunk.js.map",
+    "static/js/3.2eee9e72.chunk.js": "/praveenkumar366/pokedex/static/js/3.2eee9e72.chunk.js",
+    "static/js/3.2eee9e72.chunk.js.map": "/praveenkumar366/pokedex/static/js/3.2eee9e72.chunk.js.map",
+    "index.html": "/praveenkumar366/pokedex/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/praveenkumar366/pokedex/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1cae411b.chunk.js.LICENSE.txt": "/praveenkumar366/pokedex/static/js/2.1cae411b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/praveenkumar366/pokedex/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1085e9df.js",
+    "static/js/2.1cae411b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f60f5e03.chunk.js"
+  ]
+}
